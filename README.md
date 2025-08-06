@@ -10,7 +10,7 @@ l1bq3.c : A C program that takes a paragraph input from the user, counts the fre
 dijkstra.c : Dijkstra Algorithm for Finding Minimum Distance of Vertices from a Given Source in a Graph, providing how each functions works in upcoming paragarph.
 
              toLowerCase() -> Converts a string to lowercase to make word counting case-insensitive.
-             fgets() -> input	Reads the paragraph including spaces.
+             fgets() input	-> Reads the paragraph including spaces.
              Newline removal -> Removes trailing newline from input for clean processing.
              strtok() tokenizer	-> Splits paragraph into words using multiple delimiters (spaces, punctuation).
              Word frequency loop	-> Tracks each unique word and counts occurrences in parallel arrays.
